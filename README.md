@@ -1,6 +1,6 @@
 
 
-# 🧠 AI-Powered Interview Assistant
+# 🧠 AI-Powered Interview Helper
 
 A smart web-based platform that automates technical interviews using Generative AI, intelligent resume parsing, timed question flows, and structured candidate evaluation — designed to mirror real-world technical screening.
 
